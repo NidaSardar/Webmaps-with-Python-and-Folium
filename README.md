@@ -57,7 +57,7 @@ The steps focuses how you can create application using Flask and deploy it on li
         heroku git : remote --app app_name
         git push heroku master
 
-9. To see your live applicatio, run
+9. To see your live application, run
 
         heroku open.
     It will redirect you to your live webiste.
